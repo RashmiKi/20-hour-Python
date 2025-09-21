@@ -1,0 +1,31 @@
+Day,Theme,Hook (First Line),Content Summary,CTA,Tag Suggestions,Format,Link,Date Posted
+1,Intro,"""From college labs to enterprise codebases—this is my journey.""",Intro post: From B.Tech to Software Engineer at Sasken,"""Drop a 🔥 if you're a fresh grad stepping into tech!""",@SaskenTech @LinkedInIndia,Text,Link,07-Jul-25
+2,Tech Insight,"""The #1 thing I learned in my first month as a developer.""",Share a lesson that surprised you post-joining,"""What shocked you most when you entered the industry?""",@GitHub @FreeCodeCamp,Text,Link,08-Jul-25
+3,Personal Story,"""I failed this interview—and it made me 10x better.""",Vulnerable post about a rejection that shaped you,"""Tag someone who needs to hear this today.""",@ScalerOfficial @TechCrunch,Story Post,Link,09-Jul-25
+4,Tech Trend,"""AI won’t replace devs—but devs using AI will replace those who don’t.""",Talk about using AI tools like Copilot or ChatGPT,"""Which AI tool is in your stack? Comment below.""",@OpenAI @GitHubCopilot,Carousel,Link,10-Jul-25
+5,Poll,"""Which is hardest for fresh grads in Software Engineering backgroud?""","Poll: Communication, DSA, Development, Finding mentors","""Vote + comment why!""",@CodeChef @LinkedInNews,Poll,Link,11-Jul-25
+6,Biz + Tech,"""Most startups fail not due to tech—but lack of product-market fit.""",Startup insight for non-tech audience,"""Agree or disagree? Let’s debate.""",@a16z @SaaStr @HarvardBiz,Text,Link,12-Jul-25
+7,Reflection,"""What college didn’t teach me about writing real code…""",Transition from theory to real-world coding,"""If you’re a student, ask me anything.""",@GeeksforGeeks @NPTEL,Text,Link,14-Jul-25
+8,Framework,"""Here's how I approach any complex task—my 3-step mental model.""",Explain your thinking process as an ENTJ/Engineer,"""Try it once. Let me know if it helps!""",@HarvardBiz @FarnamStreet,Carousel,Link,15-Jul-25
+9,Tech Breakdown,"""Here's what a day in the life of a Software Engineer looks like (real, not glamorized).""","Share your workflow with code, tools, teams","""Drop a 🖥️ if you’re in the trenches too.""",@SaskenTech @Hashnode,Text,Link,16-Jul-25
+10,Live Promo,"""I'm going live to talk about ‘Landing Tech Roles as a Fresher’""",Promote your upcoming LinkedIn Live,"""Set a reminder. Tag a student who should join.""",@Scaler @LinkedInEvents,Event Promo,Link,
+11,Thought Piece,"""Stop solving problems that don’t exist.""",Dev mistake: building before validating,"""Comment with the most useless feature you ever built.""",@YC @ProductHunt,Text,Link,17-Jul-25
+12,Screenshot + Proof,"""This blew up! 100+ comments in 24 hours!""",Repost top-performing content with analysis,"""Thank you all. Comment 🔄 if you missed it.""",Tag 3 top commenters,Image + Text,Link,
+13,Dev Insight,"""Why I still write pseudocode first.""",Highlight your workflow tip,"""What’s your #1 dev ritual?""",@freeCodeCamp @DevCommunity,Text,Link,18-Jul-25
+14,Weekend Learning,"""This weekend, I’m not binge-watching—I’m binge-building.""",Share your side project or course,"""What’s your weekend goal?""",@edXOnline @Coursera,Text,Link,19-Jul-25
+15,Story + Hook,"""This 1 question made me rethink my entire career plan.""",Career coaching story or advice you got,"""Ever had a question hit this hard? Share it.""",@CareerFoundry @DesignYourLife,Text,Link,20-Jul-25
+16,Biz Concept,"""The tech is easy. Building what users love? That’s the hard part.""","Talk about UX, feedback loops","""PMs, how do you do this better?""",@MartyCagan @intercom,Carousel,Link,21-Jul-25
+17,Failure Reflection,"""Here’s where I messed up—and what I learned.""",Honest story about a mistake,"""Drop a 🧠 if you're learning by doing.""",Tag any colleague or mentor involved,Story Post,Link,22-Jul-25
+18,Infographic,"""What I use daily as a Software Engineer: tools + mindset.""",Simple graphic of stack + soft skills,"""What’s missing from this list?""",@SlackHQ @VSCode @NotionHQ,Image Post,Link,23-Jul-25
+19,Progress Share,"""From 600 to 3K in 19 days—here’s what’s working.""",Mid-month growth reflection,"""Want to grow too? Comment ‘me’ and I’ll DM a tip.""",Tag engaged followers,Screenshot + Text,Link,
+20,Challenge CTA,"""Let’s grow together. Join the #TechGrowthChallenge""",Start a 10-day content challenge,"""Tag 2 creators to join.""",@LinkedInCreators,Challenge Post,Link,24-Jul-25
+21,Leadership Insight,"""Leadership isn't about title—it’s about clarity.""",ENTJ/Projector lens on leadership,"""Who’s the best ‘quiet leader’ you know?""",@FirstRound @IndieHackers,Text,Link,25-Jul-25
+22,Repost + Add Value,"""This post hit hard. Here’s my take.""",Add thoughts to someone else’s viral post,"""Agree or disagree?""",@PaulGraham @GergelyOrosz,Quote Repost,Link,
+23,DM Story,"""A student DM’d me this...""",Share how your content helped someone,"""Want help like this? Just say ‘Hi’ in DM.""",Mention the anonymous DM,Screenshot + Story,Link,
+24,Dev Myth,"""You don’t need 10 languages to be ‘ready’""",Break a common myth for junior devs,"""What’s the worst career myth you heard?""",@StackOverflow,Text,Link,26-Jul-25
+25,System Thinking,"""Every system is perfectly designed for the result it gets.""",Share a system or framework you improved,"""What systems are breaking in your team?""",@NotionHQ @ClickUp,Text,Link,27-Jul-25
+26,Behind-the-Scenes,"""How I plan my week for deep focus + content""",Share routine and tips,"""Want a template? Comment ‘Plan’""",@AliAbdaal @Notion,Text + Image,Link,28-Jul-25
+27,Hook Story,"""In 2 minutes, I gained the trust of the entire panel.""","Short, sharp story about interview or pitch","""What’s the best thing you ever said in an interview?""",@InterviewReady,Story Format,Link,29-Jul-25
+28,Milestone,"""We crossed 5K! This is wild.""",Community-focused gratitude post,"""Comment your goal. Let’s win together.""",Tag top commenters from prior posts,Text + Image,Link,
+29,Collab Invite,"""Let’s co-write a carousel on modern tech rituals""",Collaboration CTA,"""Comment 🔗 and I’ll DM.""","Tag micro-creators in dev, product",Text,Link,
+30,Recap,"""30 days, 10K+ new connections, 100 lessons.""","Reflect on the challenge, share insights","""Want a guide of everything I learned? Comment ‘Guide’""",Tag mentors and standout commenters,Long-Form Post,Link,
