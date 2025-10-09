@@ -1,0 +1,7 @@
+OrderID,ProductID,Customer,Quantity,Quantity
+1,P01,Rashmi,2,2
+2,P02,Aman,1,1
+3,P01,Krishn,2,2
+4,P03,Chotu,5,5
+5,P02,Aariyan,1,1
+
