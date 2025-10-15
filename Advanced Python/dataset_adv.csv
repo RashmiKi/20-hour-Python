@@ -1,0 +1,11 @@
+OrderID,Date,Customer,Product,Amount
+1,15-01-2024,Raj,Laptop,50000
+2,20-01-2024,Meera,Phone,30000
+3,10-02-2024,Raj,Laptop,55000
+4,15-02-2024,Priya,Tablet,25000
+5,05-03-2024,Meera,Phone,32000
+6,18-03-2024,Arjun,Tablet,27000
+7,22-03-2024,Raj,Phone,30000
+8,02-04-2024,Priya,Laptop,60000
+9,10-04-2024,Raj,Tablet,26000
+10,18-04-2024,Meera,Phone,31000
