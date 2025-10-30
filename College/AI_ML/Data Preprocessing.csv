@@ -1,0 +1,11 @@
+Employee_ID,Name,Age,Department,Gender,Experience_Years,Salary,Joining_Date
+E001,Arjun Singh,28,Sales,Male,3,48000,15-07-2019
+E002,Priya Das,35,HR,Female,8,67000,20-02-2015
+E003,Rahul Mehta,NaN,IT,Male,5,NaN,10-05-2018
+E004,Sneha Kapoor,29,Finance,Female,4,59000,01-03-2020
+E005,Amit Roy,41,Sales,Male,15,85000,11-11-2010
+E006,Kavita Sharma,24,Marketing,Female,1,35000,17-01-2022
+E007,Rakesh Nair,38,IT,Male,10,78000,09-09-2012
+E008,Anjali Gupta,27,Finance,Female,2,48000,30-06-2021
+E009,Rohit Verma,32,Sales,Male,6,61000,23-08-2016
+E010,Nisha Yadav,26,Marketing,Female,NaN,42000,12-12-2020
